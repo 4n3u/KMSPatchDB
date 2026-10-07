@@ -1,0 +1,20 @@
+{
+  "updatedAt": "2026-10-07T14:41:04.678782+00:00",
+  "totalPatches": 1555,
+  "kms": {
+    "total": 998,
+    "major": 620,
+    "minor": 378,
+    "latestVer": 419,
+    "latestDisplay": "1.2.419",
+    "totalSizeMb": 1108866.37
+  },
+  "kmst": {
+    "total": 557,
+    "major": 525,
+    "minor": 32,
+    "latestVer": 1206,
+    "latestDisplay": "1.2.206",
+    "totalSizeMb": 739136.19
+  }
+}
