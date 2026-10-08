@@ -166,6 +166,10 @@ def update():
 
     print(f"Scan complete. Checked {len(tasks)} candidates concurrently. Found: {len(new_found)} new.")
 
+    if not new_found:
+        print("No new patches found. Database and updatedAt remain unchanged.")
+        return
+
     # Sort patches cleanly
     patches.sort(key=lambda p: (
         p['server'],
