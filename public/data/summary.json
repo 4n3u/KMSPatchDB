@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-08T12:24:17.826585+00:00",
-  "totalPatches": 1562,
+  "updatedAt": "2026-10-15T10:30:22.423628+00:00",
+  "totalPatches": 1567,
   "kms": {
     "total": 1005,
     "major": 620,
@@ -10,11 +10,11 @@
     "totalSizeMb": 1109931.13
   },
   "kmst": {
-    "total": 557,
-    "major": 525,
-    "minor": 32,
-    "latestVer": 1206,
-    "latestDisplay": "1.2.206",
-    "totalSizeMb": 739136.19
+    "total": 562,
+    "major": 529,
+    "minor": 33,
+    "latestVer": 1207,
+    "latestDisplay": "1.2.207",
+    "totalSizeMb": 757105.81
   }
 }
