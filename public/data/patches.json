@@ -9554,6 +9554,23 @@
     "targetDisplay": "1.2.074"
   },
   {
+    "id": "kms-minor-01to02_patch-420",
+    "server": "KMS",
+    "type": "minor",
+    "url": "https://maplestory.dn.nexoncdn.co.kr/Patch/00420/Minor/01to02.patch",
+    "filename": "01to02.patch",
+    "sizeBytes": 162892934,
+    "sizeMb": 155.35,
+    "lastModified": "Thu, 22 Oct 2026 06:52:21 GMT",
+    "timestamp": "Thu, 22 Oct 2026 06:52:21 GMT",
+    "targetVer": 420,
+    "sourceVer": 420,
+    "sourceMinor": 1,
+    "targetMinor": 2,
+    "sourceDisplay": "1.2.420 (Minor 1)",
+    "targetDisplay": "1.2.420 (Minor 2)"
+  },
+  {
     "id": "kms-major-00419to00420_patch-420",
     "server": "KMS",
     "type": "major",
